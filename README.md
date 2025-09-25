@@ -1,7 +1,7 @@
 TalentFlow - A Mini Hiring Platform
 TalentFlow is a feature-rich frontend application designed to simulate a modern hiring platform or Applicant Tracking System (ATS). It provides a comprehensive interface for managing job postings, tracking candidates through various hiring stages, and creating custom skill assessments. The application is built entirely on the frontend, utilizing Mock Service Worker (MSW) and IndexedDB to create a realistic and persistent backend experience without needing a server.
 
-Live Demo: https://jobsearch-axdhhlrw-zam13786s-projects.vercel.app/
+Live Demo: https://job-search-taupe-rho.vercel.app/
 (You can update this link with your final Vercel URL)
 
 Features
